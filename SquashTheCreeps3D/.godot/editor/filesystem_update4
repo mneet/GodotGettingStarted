@@ -1,3 +1,6 @@
 res://scenes/main.tscn
 res://scenes/player.tscn
 res://scenes/player.gd
+res://scenes/mob.tscn
+res://scenes/mob.gd
+res://scenes/main.gd
